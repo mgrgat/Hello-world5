@@ -5,3 +5,5 @@ Publishing makes real difference
 ## Opet neki naslov
 Opet neki tekst
 fssssssss
+
+[I'm an inline-style link](https://www.google.com)
